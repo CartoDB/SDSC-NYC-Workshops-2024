@@ -27,7 +27,9 @@ Cloud native insurance risk concentration analysis with Wherobots and CARTO | Le
 **Room B**
 
 Deck.gl - Creating custom layers tailored to visualize large datasets | Led by Sergey Sukov, CEO at Action Engine
-- [Slides]()
+- [Slides](https://drive.google.com/file/d/1cH5R9Qmy1cU_jtorED5O891b6H8UNfOf/view)
+- [Stackblitz](https://stackblitz.com/github/ActionEngine/sdsc-workshop-2024/tree/main?file=main.js)
+- [GitHub](https://github.com/ActionEngine/sdsc-workshop-2024)
 
 #### 12:35 - 13:30
 
