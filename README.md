@@ -1,5 +1,7 @@
 # Spatial Data Science Conference | Workshops
 
+* If you have trouble accessing any of the Google slides/docs, it may be that your company has set up a firewall - try logging out of your company Google account/in to a personal account to access.
+
 ## Agenda
 
 #### 10:30 - 11:30
@@ -54,7 +56,7 @@ Solutions Engineer at CARTO
 **Room A**
 
 Low-Code Spatial Analytics for Change | Led by Tobin McGilligan, Project Manager at CARTO
-- [Slides]()
+- [Slides](https://docs.google.com/presentation/d/11xMiYjKo2_Lu5CNtEblrfeXLfhH9OxQUzZGBbS42YPQ/edit?usp=sharing)
 
 **Room B**
 
