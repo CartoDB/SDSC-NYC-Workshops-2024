@@ -17,7 +17,7 @@ Mastering Big Data Visualization & Storytelling | Led by Helen McKenzie, Geospat
 
 Building Human Mobility Data Pipelines with CARTO Workflows on Databricks | Led by Milos Colic, Platform APIs Team Lead at CARTO and Michael Johns, Geospatial Specialist Leader at Databricks
   
-  - Slides
+  - [Slides](https://docs.google.com/presentation/d/1HTqItkZ-Do-e6hzYmWpXL05l9s3yqyOUQ-QBBlVM_v0/edit#slide=id.g2dba7405fca_0_45)
 
 ### 11:35 - 12:35
 
@@ -57,6 +57,7 @@ Solutions Engineer at CARTO
 
 Low-Code Spatial Analytics for Change | Led by Tobin McGilligan, Project Manager at CARTO
 - [Slides](https://docs.google.com/presentation/d/11xMiYjKo2_Lu5CNtEblrfeXLfhH9OxQUzZGBbS42YPQ/edit?usp=sharing)
+- [Workflow](https://drive.google.com/file/d/1Py4ImQ0KUWzXOfwY2N3dVC-IZl96A_hG/view?usp=sharing)
 
 **Room B**
 
